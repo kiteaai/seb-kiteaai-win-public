@@ -1,0 +1,23 @@
+<!ENTITY seb.title "Safe Exam Browser (FR)">
+<!ENTITY seb.reconf.title "Safe Exam Browser - Reconfiguration">
+<!ENTITY seb.toolbar.reload "Page reload">
+<!ENTITY seb.toolbar.back "back">
+<!ENTITY seb.toolbar.forward "forward">
+<!ENTITY spellAddToDictionary.label "Add to Dictionary">
+<!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellUndoAddToDictionary.label "Undo Add To Dictionary">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
+<!ENTITY spellCheckToggle.label "Check Spelling">
+<!ENTITY spellCheckToggle.accesskey "g">
+<!ENTITY spellNoSuggestions.label "(No Spelling Suggestions)">
+<!ENTITY spellDictionaries.label "Languages">
+<!ENTITY spellDictionaries.accesskey "l">
+<!ENTITY seb.lock.header "Lost Connection to SEB Kiosk Application!">
+<!ENTITY seb.lock.userswitch.header "User Switch Locked SEB!">
+<!ENTITY seb.lock.userswitch.text "SEB is locked because it was attempted to switch the user.">
+<!ENTITY seb.lock.text "The SEB browser can only be unlocked by entering the quit/unlock password, which usually exam supervision/support knows.">
+<!ENTITY seb.lock.unlock "After unlocking, make sure exam answers are saved, quit the browser and restart SEB.">
+<!ENTITY seb.lock.unlock.button "Unlock">
+<!ENTITY seb.lock.reconnection "Reconnection">
+<!ENTITY seb.lock.unconnected "unconnected!">
+<!ENTITY seb.locked.text "System is locked by Administrator...">

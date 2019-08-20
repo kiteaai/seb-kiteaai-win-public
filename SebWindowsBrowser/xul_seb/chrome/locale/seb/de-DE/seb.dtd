@@ -1,0 +1,23 @@
+<!ENTITY seb.title "Safe Exam Browser (DE)">
+<!ENTITY seb.reconf.title "Safe Exam Browser - Rekonfiguration">
+<!ENTITY seb.toolbar.reload "Seite neu laden">
+<!ENTITY seb.toolbar.back "Zurück">
+<!ENTITY seb.toolbar.forward "Vor">
+<!ENTITY spellAddToDictionary.label "Add to Dictionary">
+<!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellUndoAddToDictionary.label "Undo Add To Dictionary">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
+<!ENTITY spellCheckToggle.label "Rechtschreibprüfung">
+<!ENTITY spellCheckToggle.accesskey "g">
+<!ENTITY spellNoSuggestions.label "(No Spelling Suggestions)">
+<!ENTITY spellDictionaries.label "Languages">
+<!ENTITY spellDictionaries.accesskey "l">
+<!ENTITY seb.lock.header "Verbindung zur SEB Anwendung unterbrochen!">
+<!ENTITY seb.lock.userswitch.header "SEB gesperrt wegen Benutzerwechsel!">
+<!ENTITY seb.lock.userswitch.text "SEB is locked because it was attempted to switch the user.">
+<!ENTITY seb.lock.text "Der Browser kann nur mit einem entsprechenden Master-Passwort entsperrt werden. Bitte wenden Sie sich an das Aufsichtspersonal.">
+<!ENTITY seb.lock.unlock "Nach dem Entsperren stellen Sie sicher, dass alle Daten gespeichert sind. Beenden und starten Sie SEB erneut.">
+<!ENTITY seb.lock.unlock.button "Entsperren">
+<!ENTITY seb.lock.reconnection "Verbindungsaufbau">
+<!ENTITY seb.lock.unconnected "nicht verbunden!">
+<!ENTITY seb.locked.text "Das System ist gesperrt...">

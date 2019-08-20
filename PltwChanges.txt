@@ -1,0 +1,8 @@
+*** SEBClientInfo.cs: DEFAULT_PORTNUMBER      = 57018 for Kap and 57017 for PLTW.
+SEBClientInfo.cs Line 142,***  MANUFACTURER_LOCAL -> ATSPLTW
+SebCloseDialogForm.resx
+SEBSplashScreen.cs -- *** Also update version for PLTW
+SEBUIStrings.Designer.cs (Comments only)
+SEBUIStrings.resx
+SebWindowsClientMain.cs (Exe name remains same for PLTW and Kite apps)
+AssemblyInfo.cs (SebWindowsConfig\Properties)
